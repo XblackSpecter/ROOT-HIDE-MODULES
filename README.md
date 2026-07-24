@@ -33,7 +33,7 @@ A lightweight module for Magisk / KernelSU / all forks that instantly detects ne
 
 ## 🚀 Installation
 
-1. Download the latest `TrickyAutoFiller.zip` from the [Releases]](https://github.com/XblackSpecter/Android-root-hide/releases/tag/android-root-hide) page.
+1. Download the latest `TrickyAutoFiller.zip` from the [Releases](https://github.com/XblackSpecter/Android-root-hide/releases) page.
 2. Open your root manager (Magisk / KernelSU / etc.).
 3. Select **Install from storage** and choose the zip file.
 4. Flash it and **reboot** your device.
